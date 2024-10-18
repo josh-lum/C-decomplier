@@ -1,1 +1,1 @@
-This is a joint C decomplier built in python by Joshua Lum and Mason Melendy
+This is a joint C decomplier written in python by Joshua Lum and Mason Melendy
